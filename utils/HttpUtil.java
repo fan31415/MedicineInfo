@@ -1,3 +1,8 @@
+package com.example.fam_000.medicineinfo.utils;
+
+/**
+ * Created by fam_000 on 2016/2/21.
+ */
 import java.io.BufferedReader;
 import java.io.InputStream;
 import java.io.InputStreamReader;
@@ -44,3 +49,5 @@ public class HttpUtil {
         }).start();
     }
 }
+
+
